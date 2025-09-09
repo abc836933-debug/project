@@ -209,7 +209,7 @@ export default function Viewfacilities1() {
         ) : (
           selecteddisease && (
             <p className="text-center text-gray-500 mt-5">
-              No facilities found for this disease.
+              No Facilities found for this disease.
             </p>
           )
         )}
